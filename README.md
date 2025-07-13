@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, Python, SQL, REST APIs**
 
-- 📫 How to reach me: **nishantmishra0016@example.com**
+- 📫 How to reach me: **nishantmishra0016@gmail.com**
 
 - 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Nishantmishra0016)
 
