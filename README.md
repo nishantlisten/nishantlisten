@@ -12,10 +12,10 @@
 
 - 📫 How to reach me: **nishantmishra0016@gmail.com**
 
-- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/Nishantmishra0016)
+- 👨‍💻 All of my projects are available at: [GitHub Profile](https://github.com/nishantlisten)
 
 - 📄 Know about my experiences:  
-  [📄 View My Resume](https://drive.google.com/file/d/1ZZTj9dSZKS-6Stz9Qs3c-55Pi14WrYSA/view?usp=drive_link)
+  [📄 View My Resume](https://drive.google.com/file/d/1ZZTj9dSZKS-6Stz9Qs3c-55Pi14WrYSA/view?usp=sharing)
 
 - ⚡ Fun fact: **I once debugged an entire Java servlet issue using just log prints — and coffee ☕**
 
